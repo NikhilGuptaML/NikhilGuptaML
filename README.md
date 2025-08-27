@@ -1,7 +1,7 @@
 
 # Hi, I am Nikhil
 - I'm a passionate Machine Learning and Deep Learning enthusiast
-- Studying Bacherlors Artificial Intelligence and Machine Learning
+- Pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning
 - Building and working on projects
 - Exploring **Python automation**, data science, and AI tools
 - Always learning, experimenting, and applying knowledge to hands-on projects
