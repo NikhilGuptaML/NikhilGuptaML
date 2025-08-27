@@ -1,5 +1,5 @@
 
-# Hi,I am Nikhil
+# Hi, I am Nikhil
 - I'm a passionate Machine Learning and Deep Learning enthusiast
 - Studying Bacherlors Artificial Intelligence and Machine Learning
 - Building and working on projects
