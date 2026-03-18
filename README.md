@@ -7,21 +7,21 @@ Currently obsessed with: **LLMs, RAG pipelines, and local AI tooling.**
 
 ---
 
-## 🔨 What I've Built
+##  What I've Built
 
-### 🤖 Mika — Local AI Desktop Assistant
+### Mika — Local AI Desktop Assistant
 A voice/text assistant that runs fully offline using Ollama.
 Opens apps, searches the web, answers questions — no cloud dependency.
 > Stack: Python · Ollama · Local LLMs
 
-### 📄 RAG Document System
+### RAG Document System
 A retrieval-augmented generation pipeline for querying documents.
 Built with FAISS for vector search and LangChain for orchestration.
 > Stack: Python · LangChain · FAISS · OpenAI / local embeddings
 
 ---
 
-## 📚 What I'm Learning Right Now
+## What I'm Learning Right Now
 
 - **NPTEL — IIT Madras**: Introduction to Machine Learning
 - **NPTEL — IIT Guwahati**: Computer Vision and Deep Learning
@@ -30,7 +30,7 @@ Built with FAISS for vector search and LangChain for orchestration.
 
 ---
 
-## 🧰 Stack
+## Stack
 
 **Languages**
 
@@ -55,7 +55,7 @@ Built with FAISS for vector search and LangChain for orchestration.
 
 ---
 
-## 📈 Background
+## Background
 
 - Completed **Andrew Ng's ML + Deep Learning Specializations**
 - Participated in **Smart India Hackathon** and multiple college-level hackathons
@@ -63,7 +63,7 @@ Built with FAISS for vector search and LangChain for orchestration.
 
 ---
 
-## 🎯 Where I'm Headed
+## Where I'm Headed
 
 Building toward a **remote AI engineering role** at a startup.
 The goal: go from learner → builder → engineer who ships production AI systems.
@@ -74,8 +74,8 @@ I'm documenting the journey as I go.
 
 ## 📬 Find Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhilgupta-181717?style=flat&logo=github)](https://github.com/nikhilgupta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nikhilgupta)
+[![GitHub](https://img.shields.io/badge/GitHub-NikhilGupta-181717?style=flat&logo=github)](https://github.com/NikhilGuptaML)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nikhil-gupta-827b3b31a/)
 
 ---
 
