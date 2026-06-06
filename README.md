@@ -34,7 +34,7 @@ The goal is to be the engineer who ships, not the one who plans to ship.
  
 `LangGraph` `FastAPI` `SQLite` `OpenRouter` `Railway`
  
-> [rolescout.up.railway.app](https://rolescout.up.railway.app)
+> [https://rolescout-production-fe29.up.railway.app/](https://rolescout-production-fe29.up.railway.app/)
  
 ---
  
