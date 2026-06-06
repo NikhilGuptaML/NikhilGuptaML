@@ -1,82 +1,113 @@
-# Hey, I'm Nikhil 👋
-
-CS undergrad (Tier-3 college, India) teaching myself to build things that actually work.
-My formal education gives me the structure. Everything else, I figure out myself.
-
-Currently obsessed with: **LLMs, RAG pipelines, and local AI tooling.**
-
+<div align="center">
+```
+███╗   ██╗██╗██╗  ██╗██╗  ██╗██╗██╗      ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗
+████╗  ██║██║██║ ██╔╝██║  ██║██║██║     ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
+██╔██╗ ██║██║█████╔╝ ███████║██║██║     ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
+██║╚██╗██║██║██╔═██╗ ██╔══██║██║██║     ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
+██║ ╚████║██║██║  ██╗██║  ██║██║███████╗╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
+```
+ 
+### CS undergrad. Self-taught. Building things that actually work.
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikhilguptaml.vercel.app-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilguptaml.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-gupta-827b3b31a/)
+ 
+</div>
 ---
-
-##  What I've Built
-
+ 
+```
+My college teaches me structure.
+Everything else, I figure out myself.
+```
+ 
+I'm a 2nd-year CS undergrad building AI systems — not demos, not tutorials, actual things that run.
+Right now I'm deep in LLMs, multi-agent systems, and production pipelines.
+The goal is to be the engineer who ships, not the one who plans to ship.
+ 
+---
+ 
+## What I've built
+ 
+### Rolescout — AI Recruiting Agent
+5-agent LangGraph workflow. Scrapes job listings, matches against candidate profiles, writes outreach drafts, and tracks state across the whole pipeline. Deployed and live.
+ 
+`LangGraph` `FastAPI` `SQLite` `OpenRouter` `Railway`
+ 
+> [rolescout.up.railway.app](https://rolescout.up.railway.app)
+ 
+---
+ 
+### Nyaya — Legal Aid for Gig Workers *(early stage)*
+Gig workers and migrant workers get robbed blind on wages. Nobody helps them because legal help costs money they don't have. Nyaya is an AI pipeline that takes their situation as input and produces a real, sendable legal notice PDF as output.
+ 
+Voice input. Multilingual. No lawyer needed.
+ 
+Currently: end-to-end pipeline works, legal notice PDF produces correctly. Phase 2 in progress.
+ 
+`LangGraph` `Gemini 2.5 Flash` `FastAPI` `PostgreSQL` `Sarvam STT`
+ 
+---
+ 
 ### Mika — Local AI Desktop Assistant
-A voice/text assistant that runs fully offline using Ollama.
-Opens apps, searches the web, answers questions — no cloud dependency.
-> Stack: Python · Ollama · Local LLMs
-
+Fully offline. No cloud dependency. Runs on your machine using local models via Ollama — opens apps, searches the web, answers questions. Built it because I wanted a local assistant that actually worked.
+ 
+`Python` `Ollama` `Local LLMs`
+ 
+---
+ 
 ### RAG Document System
-A retrieval-augmented generation pipeline for querying documents.
-Built with FAISS for vector search and LangChain for orchestration.
-> Stack: Python · LangChain · FAISS · OpenAI / local embeddings
-
+A retrieval-augmented generation pipeline for querying documents. FAISS for vector search, LangChain for orchestration. Nothing novel, but I built it from scratch to understand how it actually works.
+ 
+`Python` `LangChain` `FAISS` `OpenAI / local embeddings`
+ 
 ---
-
-## What I'm Learning Right Now
-
-- **NPTEL — IIT Madras**: Introduction to Machine Learning
-- **NPTEL — IIT Guwahati**: Computer Vision and Deep Learning
-- **NPTEL — IIT Delhi**: Introduction to LLMs and Emerging Trends
-- LangGraph · Multi-agent systems · CrewAI · AutoGen
-
----
-
+ 
 ## Stack
-
+ 
 **Languages**
-
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+ 
 **AI / ML**
-
+ 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Tools & Infra**
-
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+ 
+**Infra & Tools**
+ 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+ 
 ---
-
+ 
 ## Background
-
-- Completed **Andrew Ng's ML + Deep Learning Specializations**
-- Participated in **Smart India Hackathon** and multiple college-level hackathons
-- Currently on an internship-style research project with a government stakeholder
-
+ 
+- Andrew Ng ML + Deep Learning Specializations — done
+- Smart India Hackathon — participated
+- NPTEL courses across ML, Computer Vision, and LLMs — ongoing
+- Ongoing research collaboration with a government stakeholder — can't say more
 ---
-
-## Where I'm Headed
-
-Building toward a **remote AI engineering role** at a startup.
-The goal: go from learner → builder → engineer who ships production AI systems.
-
-I'm documenting the journey as I go.
-
+ 
+## Where this is going
+ 
+Startup AI engineering internship. Then FAANG. In that order.
+ 
+Not rushing. Not waiting either.
+ 
 ---
-
-## 📬 Find Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-NikhilGupta-181717?style=flat&logo=github)](https://github.com/NikhilGuptaML)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nikhil-gupta-827b3b31a/)
-
----
-
+ 
+<div align="center">
 *"I'd rather ship something real and imperfect than plan something perfect and never start."*
+ 
+</div>
+ 
