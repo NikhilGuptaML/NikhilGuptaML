@@ -1,11 +1,13 @@
 <div align="center">
-```
+``` 
+ 
 ███╗   ██╗██╗██╗  ██╗██╗  ██╗██╗██╗      ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗
 ████╗  ██║██║██║ ██╔╝██║  ██║██║██║     ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
 ██╔██╗ ██║██║█████╔╝ ███████║██║██║     ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
 ██║╚██╗██║██║██╔═██╗ ██╔══██║██║██║     ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
 ██║ ╚████║██║██║  ██╗██║  ██║██║███████╗╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
+
 ```
  
 ### CS undergrad. Self-taught. Building things that actually work.
@@ -16,10 +18,7 @@
 </div>
 ---
  
-```
-My college teaches me structure.
-Everything else, I figure out myself.
-```
+
  
 I'm a 2nd-year CS undergrad building AI systems — not demos, not tutorials, actual things that run.
 Right now I'm deep in LLMs, multi-agent systems, and production pipelines.
