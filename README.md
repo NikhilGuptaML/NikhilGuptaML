@@ -10,13 +10,13 @@ I am fascinated with AI Automation and the impact it provides and therefore I am
 
 Outside of tech, I'm into badminton, football, books, and staying physically fit (working on it).
 
----
+
 
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhilguptaml.vercel.app-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilguptaml.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-gupta-827b3b31a/)
 
----
+
 
 *"I'd rather ship something real and imperfect than plan something perfect and never start."*
