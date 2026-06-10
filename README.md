@@ -1,39 +1,20 @@
-### CS undergrad. Self-taught. Building things that actually work.
+
+Hi! ![Waving](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+I'm Nikhil, an AI Developer and learner from Bharat.
+
+I worked as an AI Engineering Intern @TechSpace, GGSIPU (on hold), where I worked on designing agentic workflows and using VLMs to convert physical handwritten and scanned documents into fully editable digital replicas including decision-making on how to handle different document types.
+
+I am fascinated with AI Automation and the impact it provides and therefore I am intereseted in building AI systems that can create a impact. For that same reason I built Rolescout which cuts the manual work of researching a job, and how fit you are for it (live and open source).Other than AI Agents and automation, I am also into Machine Learning and have some knowdledge about it. Preparing to turn that knowdlege into some work too. :)
+
+Outside of tech, I'm into badminton, football, books, and staying physically fit (working on it).
+
+---
+
+## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhilguptaml.vercel.app-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilguptaml.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-gupta-827b3b31a/)
-
----
-
-2nd-year CS undergrad. Deep in LLMs, multi-agent systems, and production pipelines.
-The goal is to be the engineer who ships — not the one who plans to ship.
-
----
-
-## What I've Built
-
-**[Rolescout](https://rolescout-production-fe29.up.railway.app/) — AI Recruiting Agent** `Live`
-5-agent LangGraph workflow. Scrapes listings, matches candidates, writes outreach drafts, tracks state end-to-end.
-`LangGraph` `FastAPI` `SQLite` `Railway`
-
----
-
-**Nyaya — Legal Aid for Gig Workers**
-Voice-input pipeline that takes a worker's situation and produces a sendable legal notice PDF. Multilingual. No lawyer needed.
-`LangGraph` `Gemini 2.5 Flash` `Sarvam STT`
-
----
-
-**Mika — Local AI Desktop Assistant**
-Fully offline assistant. Runs local models via Ollama — opens apps, searches the web, answers questions.
-`Python` `Ollama`
-
----
-
-## Background
-- Andrew Ng ML + Deep Learning Specializations
-- NPTEL — Neural Networks, Computer Vision, LLMs (Elite/Gold)
-- Ongoing research collaboration with a government stakeholder
 
 ---
 
